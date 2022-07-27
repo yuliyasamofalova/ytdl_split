@@ -14,9 +14,9 @@ Videos from YouTube may be collected with the help of youtube-dl, using the foll
   youtube-dl -o '%(channel)s-ghj-%(title)s-ghj-%(upload_date)s-ghj-%(duration)s-ghj-%(view_count)s-ghj-%(like_count)s' ACCOUNT
 
 # How to use
-Add a path to the folder with the videos (row 5).
-Change the desired CSV file name (row 23).
-Run
+1. Add a path to the folder with the videos (row 5).
+2. Change the desired CSV file name (row 23).
+3. Run
 
 ``` py ytdl_split.py```
 
