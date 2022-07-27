@@ -18,7 +18,7 @@ Add a path to the folder with the videos (row 5).
 Change the desired CSV file name (row 23).
 Run
 
-> py ytdl_split.py
+``` py ytdl_split.py
 
 # Converted metadata
 * Channel's name
