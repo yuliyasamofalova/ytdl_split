@@ -21,9 +21,9 @@ Run
 py ytdl_split.py
 
 # Converted metadata
-Channel's name
-Video's title
-Upload date
-Video's duration'
-View_count
-Like count
+*Channel's name
+*Video's title
+*Upload date
+*Video's duration'
+*View_count
+*Like count
