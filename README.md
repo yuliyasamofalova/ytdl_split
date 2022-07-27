@@ -7,8 +7,8 @@ It also formats the year corresponding the following format type “dd-mm-yy”.
 
 
 # Requirements
-os Python package
-csv Python package
+1. os Python package
+2. csv Python package
 
 Videos from YouTube may be collected with the help of youtube-dl, using the following code line:
   youtube-dl -o '%(channel)s-ghj-%(title)s-ghj-%(upload_date)s-ghj-%(duration)s-ghj-%(view_count)s-ghj-%(like_count)s' ACCOUNT
