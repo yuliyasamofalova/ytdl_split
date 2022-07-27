@@ -3,7 +3,7 @@
 [YouTube-dl](https://github.com/ytdl-org/youtube-dl) is a Python code to obtain YouTube data.
 However, it stores collected metadata in the file names.
 
-**ytdl_split** obtains the metadata for the files from YouTube, collected with the help of youtube-dl code.
+**ytdl_split** obtains the metadata for the files, collected with the help of youtube-dl code.
 
 It also formats the year corresponding the following format type “dd-mm-yy”. The data is encoded as UTF-8 CSV file. 
 
