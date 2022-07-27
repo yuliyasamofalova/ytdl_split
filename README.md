@@ -28,5 +28,5 @@ Videos from YouTube may be collected with the help of youtube-dl, using the foll
 * Video's title
 * Upload date
 * Video's duration
-* View_count
-* Like count
+* Views
+* Likes
